@@ -1,7 +1,13 @@
 import json, re, sys
 
-d = json.load(open(sys.argv[1] if len(sys.argv) > 1 else 'slides.json'))
-col = open('column.txt').read()
+import os
+slides_path = sys.argv[1] if len(sys.argv) > 1 else 'slides.json'
+d = json.load(open(slides_path))
+# column.txt: second argument, else next to the slides file, else the working directory
+col_path = sys.argv[2] if len(sys.argv) > 2 else os.path.join(os.path.dirname(os.path.abspath(slides_path)), 'column.txt')
+if not os.path.exists(col_path):
+    col_path = 'column.txt'
+col = open(col_path).read()
 col_norm = col.replace('’', "'").replace('“', '"').replace('”', '"')
 
 def slide_text(s):
