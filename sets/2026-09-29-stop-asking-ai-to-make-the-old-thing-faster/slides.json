@@ -1,0 +1,72 @@
+{
+  "slug": "stop-asking-ai-to-make-the-old-thing-faster",
+  "title": "Stop asking AI to make the old thing faster",
+  "url": "https://mediacopilot.ai/stop-asking-ai-to-make-the-old-thing-faster/",
+  "notes": "Emphasis markup: [[word]] renders in the accent yellow. Use on two slides per set at most.",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        "AI made your newsroom faster.",
+        "For your readers, nothing changed.",
+        "Here's what they'd notice:"
+      ]
+    },
+    {
+      "type": "story",
+      "headline": "Two kinds of AI.",
+      "deck": "[[Efficiency AI]] makes the same article faster. [[Opportunity AI]] gives readers something they never had before."
+    },
+    {
+      "type": "story",
+      "headline": "Your archive is a product now.",
+      "deck": "Nursing Times built an answer engine that draws only on its own archive. More than 200,000 questions since 2024. About 100 subscriptions traced directly to it."
+    },
+    {
+      "type": "number",
+      "big": "80% to 90%",
+      "text": "of the questions put to Nursing Times' answer engine came from suggested questions embedded in articles. Readers want the next answer right where they already are."
+    },
+    {
+      "type": "quote",
+      "quote": "“I don't know.”",
+      "deck": "Every time The Texas Tribune's school voucher chatbot said it, the question went to the reporting team. The first one became a story."
+    },
+    {
+      "type": "hero",
+      "headline": "A reporter, a phone and an AI pipeline that cuts the footage to 60 seconds. That's a video desk now.",
+      "deck": "NLW built one for The AI Daily Brief with Claude. He isn't a coder."
+    },
+    {
+      "type": "story",
+      "headline": "Many will fail. That's fine.",
+      "deck": "Four local outlets built chatbots for about $40 a month with a University of North Carolina research center. 185 queries in 45 days. Three of the four dropped theirs."
+    },
+    {
+      "type": "list",
+      "lead": "The opportunity AI test.",
+      "items": [
+        "Do readers get something new, or the same thing faster?",
+        "Could you have afforded to try it a year ago?",
+        "Does it make your reporters more visible, or less?"
+      ]
+    },
+    {
+      "type": "thesis",
+      "text": "Stop asking how much faster AI can make the [[old thing]]. Start asking what your readers would do with the [[new one]]."
+    },
+    {
+      "type": "closer",
+      "lines": [
+        "Full column at mediacopilot.ai.",
+        "Link in bio."
+      ],
+      "question": "What could your readers get from you that they never could before?",
+      "footer": "mediacopilot.ai"
+    }
+  ],
+  "captions": {
+    "instagram": "Nursing Times built an answer engine on its own archive. 200,000 questions later, 80 to 90 percent of them came from suggested questions inside articles.\nPete Pachal's column this week separates efficiency AI from opportunity AI, with examples from Skift, The Texas Tribune and a video desk one person can run.\nWhich of these could your newsroom try this quarter?\nLink in bio.\n#AI #Journalism #Publishing #PR #MediaIndustry",
+    "linkedin": "Nursing Times' answer engine, built only on its own archive, had fielded more than 200,000 questions by mid-2025, and 80% to 90% of them came from suggested questions embedded in articles.\n\nPete Pachal's column this week draws the line between efficiency AI, which makes the same article faster, and opportunity AI, which gives readers something they never had, with examples from Skift, Lenny's Newsletter, The Texas Tribune and Agência Mural, plus a four-question test for any use case.\n\nThe column: https://mediacopilot.ai/stop-asking-ai-to-make-the-old-thing-faster/"
+  }
+}
