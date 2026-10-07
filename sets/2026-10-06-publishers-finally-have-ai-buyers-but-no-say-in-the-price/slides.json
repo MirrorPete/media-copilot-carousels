@@ -1,0 +1,72 @@
+{
+  "slug": "publishers-finally-have-ai-buyers-but-no-say-in-the-price",
+  "title": "Publishers finally have AI buyers but no say in the price",
+  "url": "https://mediacopilot.ai/publishers-finally-have-ai-buyers-but-no-say-in-the-price/",
+  "notes": "Emphasis markup: [[word]] renders in the accent yellow. Use on two slides per set at most.",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        "AI companies are finally paying for content.",
+        "Publishers still don't set the price.",
+        "Here's who does:"
+      ]
+    },
+    {
+      "type": "story",
+      "headline": "They knew what it was worth.",
+      "deck": "In 2023 a Microsoft scientist warned of “the largest theft of labor in human history.” The memo surfaced in The New York Times lawsuit. Nobody in that courtroom thinks the number is zero."
+    },
+    {
+      "type": "hero",
+      "headline": "[[Training]] is where the lawsuits are. [[Inference]] is where the money is.",
+      "deck": "Courts are fighting over how models learned. The money is in answers about right now."
+    },
+    {
+      "type": "number",
+      "big": "$1 billion",
+      "text": "One estimate of the market for scraped web data. Brokers like Exa, Parallel and Tavily sell it to AI labs, ad agencies and investment firms. Almost none of it reaches publishers."
+    },
+    {
+      "type": "story",
+      "headline": "Meta harvests the most. Meta also pays.",
+      "deck": "Meta drove 46.3% of the AI bot traffic DataDome tracked in the first half of the year. It also has deals with USA Today, CNN and Fox News. It pays when it chooses to."
+    },
+    {
+      "type": "story",
+      "headline": "30 Napsters, no Spotify.",
+      "deck": "That's how People Inc.'s Jonathan Roberts described the market this summer. Payment rails from Cloudflare, TollBit and ProRata exist now. A reliable exchange alone didn't get musicians paid, either."
+    },
+    {
+      "type": "quote",
+      "quote": "“quite black box”",
+      "deck": "How publishers in Google's payment pilot described its math. One called the offers “lowball.” Google pays what Google decides. For now, every buyer does."
+    },
+    {
+      "type": "list",
+      "lead": "Where that bargaining power comes from:",
+      "items": [
+        "Act together on licensing. SPUR is an early version of this.",
+        "Lock the doors. 65.3% of 21,000 sites DataDome tested stopped zero bots.",
+        "Or keep waiting on Washington, which is sitting this one out."
+      ]
+    },
+    {
+      "type": "thesis",
+      "text": "A market for AI answers exists and the pipes to get paid are built. Until publishers show up with [[bargaining power]], the [[buyer]] names the price."
+    },
+    {
+      "type": "closer",
+      "lines": [
+        "Full column at mediacopilot.ai.",
+        "Link in bio."
+      ],
+      "question": "Would your newsroom band together on licensing, or lock the doors?",
+      "footer": "mediacopilot.ai"
+    }
+  ],
+  "captions": {
+    "instagram": "Bad bot traffic grew 124% in a year, more than nine times faster than human traffic, and scraping alone jumped 185%, per DataDome.\nPete Pachal's column this week follows the money in AI answers: who is buying, who is getting paid, and why publishers still don't get a say in the rate.\nWho should set the price for your content: you, an exchange, or the buyer?\nLink in bio.\n#AI #Publishing #Journalism #MediaIndustry #PR",
+    "linkedin": "Bad bot traffic grew 124% in a year, more than nine times faster than human traffic, and scraping alone jumped 185%, per DataDome.\n\nPete Pachal's column this week, in ten slides: the market for AI answers is real, the payment rails from Cloudflare, TollBit, ProRata and Parallel are built, and Google, Meta and OpenAI all pay for content on their own terms. Microsoft CEO Satya Nadella says anything paywalled should be licensed. Nobody has said at what price.\n\nThe column: https://mediacopilot.ai/publishers-finally-have-ai-buyers-but-no-say-in-the-price/"
+  }
+}
