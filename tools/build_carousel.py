@@ -88,7 +88,7 @@ em.hi{font-style:normal;color:var(--mc-yellow)}
 .number p{font-weight:500;font-size:.95em;line-height:1.16}
 
 /* pull quote: the quote large, context small */
-.quote .q{font-weight:700;font-size:1.55em;line-height:1.05;display:block;margin-bottom:.45em;white-space:nowrap}
+.quote .q{font-weight:700;font-size:1.55em;line-height:1.05;display:block;margin-bottom:.45em;text-wrap:balance}
 .quote .deck{font-weight:400;font-size:.62em;line-height:1.24}
 
 /* list: lead line plus short lines */

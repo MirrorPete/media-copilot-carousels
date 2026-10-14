@@ -1,0 +1,72 @@
+{
+  "slug": "ai-is-changing-which-journalists-matter-to-pr",
+  "title": "AI is changing which journalists matter to PR",
+  "url": "https://mediacopilot.ai/ai-is-changing-which-journalists-matter-to-pr/",
+  "notes": "Emphasis markup: [[word]] renders in the accent yellow. Use on two slides per set at most.",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        "PR has a new A-list.",
+        "AI answers now decide which journalists matter.",
+        "Here's who made the cut:"
+      ]
+    },
+    {
+      "type": "story",
+      "headline": "Comms teams are keeping score.",
+      "deck": "Muck Rack started handing out AI Visibility Badges in March. Cision shipped a dashboard in July. Both rank reporters by how often AI cites them."
+    },
+    {
+      "type": "number",
+      "big": "2%",
+      "text": "The overlap between the journalists PR teams pitch most and the ones AI cites most, per Muck Rack. The pitch list and the citation list are two different lists."
+    },
+    {
+      "type": "story",
+      "headline": "AI rewards [[topical]] authority over [[general]] authority.",
+      "deck": "Google says AI Mode searches run two to three times as long as regular ones. ChatGPT prompts average 23 words. A question that detailed finds whoever wrote about that exact thing."
+    },
+    {
+      "type": "quote",
+      "quote": "“The nerds, in other words, are winning.”",
+      "deck": "SemiAnalysis became a go-to on chip export controls. STAT, Endpoints News and Fierce Biotech own health. Skift owns travel. Pete Pachal on the beat reporters AI trusts."
+    },
+    {
+      "type": "hero",
+      "headline": "Going deep is no longer a career liability.",
+      "deck": "Citations peak in an article's first seven days. Steady beat coverage keeps you in the answer."
+    },
+    {
+      "type": "story",
+      "headline": "Your LinkedIn counts more than you think.",
+      "deck": "It is one of the most-cited sources in AI answers, and more than half of those citations go to members with fewer than 10,000 followers."
+    },
+    {
+      "type": "list",
+      "lead": "What publishers should do now:",
+      "items": [
+        "Block the training crawlers. Let the retrieval crawlers through.",
+        "Let reporters go deep. Authority tied to a byline can walk.",
+        "Track AI presence, but skip the leaderboard. Gawker tried that."
+      ]
+    },
+    {
+      "type": "thesis",
+      "text": "AI scores may fade the way Klout did. The pull toward [[deep expertise]] over [[famous bylines]] is the part that lasts."
+    },
+    {
+      "type": "closer",
+      "lines": [
+        "Full column at mediacopilot.ai.",
+        "Link in bio."
+      ],
+      "question": "Who is the specialist in your field that AI keeps citing?",
+      "footer": "mediacopilot.ai"
+    }
+  ],
+  "captions": {
+    "instagram": "The average ChatGPT prompt runs 23 words, and Google says AI Mode searches are two to three times longer than regular ones. A question that specific skips the famous byline and lands on whoever covered that exact topic.\nPete Pachal's column this week on how PR teams now score journalists by AI citations, and why the specialists are coming out ahead.\nIf AI scored your influence tomorrow, would the number surprise you?\nLink in bio.\n#AI #Journalism #PR #Publishing #MediaIndustry",
+    "linkedin": "Politico Pro reportedly brings in more than $125 million a year, and Pete Pachal's column this week explains why that model may soon look interesting to a lot more publishers: AI answers reward deep, narrow expertise over famous bylines.\n\nTen slides on the new PR math: Muck Rack's AI Visibility Badges, Cision's dashboard, the 2% overlap between who gets pitched and who gets cited, and the trade outlets 5W found AI leans on most, from SemiAnalysis and STAT to Skift.\n\nThe column: https://mediacopilot.ai/ai-is-changing-which-journalists-matter-to-pr/"
+  }
+}
