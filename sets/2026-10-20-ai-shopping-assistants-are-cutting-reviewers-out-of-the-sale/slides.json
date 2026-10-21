@@ -1,0 +1,71 @@
+{
+  "slug": "ai-shopping-assistants-are-cutting-reviewers-out-of-the-sale",
+  "title": "AI shopping assistants are cutting reviewers out of the sale",
+  "url": "https://mediacopilot.ai/ai-shopping-assistants-are-cutting-reviewers-out-of-the-sale/",
+  "notes": "Emphasis markup: [[word]] renders in the accent yellow. Use on two slides per set at most.",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        "An AI picked a robot vacuum.",
+        "A reviewer did the work.",
+        "Here's who got paid:"
+      ]
+    },
+    {
+      "type": "story",
+      "headline": "The test.",
+      "deck": "Pete Pachal asked Meta's Muse assistant, which he named Jones, to pick a robot vacuum. The site it leaned on hardest: Vacuum Wars, a hands-on tester that takes no sponsorships."
+    },
+    {
+      "type": "story",
+      "headline": "Three big names never showed up.",
+      "deck": "Wirecutter, PCMag and Consumer Reports all have robot vacuum roundups. None appeared. Two of their owners are suing OpenAI. The third is members only."
+    },
+    {
+      "type": "hero",
+      "headline": "Amazon was nowhere to be seen.",
+      "deck": "It blocked Muse from transacting shortly after launch. The sale went to Best Buy, Target and Dreame's own store."
+    },
+    {
+      "type": "quote",
+      "quote": "“Also not getting paid: Vacuum Wars.”",
+      "deck": "Its business runs on affiliate links, and nearly all of them go to Amazon, which doesn't exist inside Muse. The assistant used the testing and sent the sale elsewhere."
+    },
+    {
+      "type": "story",
+      "headline": "Every pick had a checkout page.",
+      "deck": "Jones recommended the Dreame L40 Ultra Gen 2, not the L60 Ultra PE its own summary singled out. Pachal can't say why, but every product Muse recommended could be bought on the spot."
+    },
+    {
+      "type": "story",
+      "headline": "Blocking the bots won't save reviewers.",
+      "deck": "A thin repackaging of Vacuum Wars data got cited anyway. The [[testing]] gets in either way. The [[paycheck]] doesn't. And Amazon has cut some publishers' commissions by as much as 50 percent."
+    },
+    {
+      "type": "list",
+      "lead": "Two imperfect options for review publishers:",
+      "items": [
+        "Cut affiliate deals with the stores assistants can reach.",
+        "Sell your test data to the AI companies."
+      ]
+    },
+    {
+      "type": "thesis",
+      "text": "Pete Pachal's bottom line: the irony of the AI era is that the people whose job is doing the [[unbiased, thorough research]] are the ones [[most shut out]]."
+    },
+    {
+      "type": "closer",
+      "lines": [
+        "Full column at mediacopilot.ai.",
+        "Link in bio."
+      ],
+      "question": "Would you cut a deal with the store, or sell your test data to the AI company?",
+      "footer": "mediacopilot.ai"
+    }
+  ],
+  "captions": {
+    "instagram": "A thin repackaging of Vacuum Wars' robot vacuum data made it onto Meta's Muse assistant's source list. The original site, which does the hands-on testing, got its work used and the sale sent to stores that pay it nothing.\nPete Pachal's column this week on why blocking the bots won't save review publishers, and what the two remaining options look like.\nWhen an AI assistant makes the pick, who should get the commission?\nLink in bio.\n#AI #Publishing #Journalism #Ecommerce #MediaIndustry",
+    "linkedin": "Amazon has cut affiliate commissions by as much as 50% for some publishers, and now the assistants are routing the sale around it entirely. When Pete Pachal asked Meta's Muse to pick a robot vacuum, it built the answer on Vacuum Wars' testing and sent him to Best Buy, Target and Dreame, none of which pay Vacuum Wars.\n\nTen slides on the reviewer's dilemma: the clone sites that get cited anyway, OpenAI pulling ChatGPT's built-in checkout in March, and the two options left for review desks.\n\nThe column: https://mediacopilot.ai/ai-shopping-assistants-are-cutting-reviewers-out-of-the-sale/"
+  }
+}
