@@ -1,0 +1,72 @@
+{
+  "slug": "ai-answers-run-on-a-library-nobody-is-paying-for",
+  "title": "AI answers run on a library nobody is paying for",
+  "url": "https://mediacopilot.ai/ai-answers-run-on-a-library-nobody-is-paying-for/",
+  "notes": "Emphasis markup: [[word]] renders in the accent yellow. Use on two slides per set at most.",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        "AI answers run on a library.",
+        "The meters only count the answers.",
+        "Here's what nobody is paying for:"
+      ]
+    },
+    {
+      "type": "story",
+      "headline": "The deals stopped moving.",
+      "deck": "At a Digiday town hall in London, one publishing executive said talks with AI companies have all but stopped. Meanwhile, People Inc. sees tens of thousands of bots a day. It blocks all but 38."
+    },
+    {
+      "type": "hero",
+      "headline": "Pay per [[crawl]] is over. Now it's pay per [[use]].",
+      "deck": "Cloudflare switched in July. Google and Microsoft are testing the same idea."
+    },
+    {
+      "type": "number",
+      "big": "15%",
+      "text": "That's how much of what ChatGPT retrieves makes it into its final answers, per AirOps research covering more than 548,000 pages. The other 85% still shaped the answer."
+    },
+    {
+      "type": "story",
+      "headline": "Uncited doesn't mean worthless.",
+      "deck": "Say an agent reads three sources on a company's layoffs: the original report, a wire story and some financial background. It uses one, maybe two. The money follows the same path."
+    },
+    {
+      "type": "story",
+      "headline": "A tenth of a cent per article.",
+      "deck": "Exa charges $1 for every 1,000 pages of full text. Parallel's Extract is $1 per 1,000 URLs. That is what a page of your reporting is worth to a data broker."
+    },
+    {
+      "type": "quote",
+      "quote": "“They do not create things, they resell things.”",
+      "deck": "Jonathan Roberts, chief innovation officer at People Inc., on the AI data brokers. His company blocks all but 38 of the bots that hit its sites."
+    },
+    {
+      "type": "list",
+      "lead": "Pete Pachal's fix, borrowed from Spotify:",
+      "items": [
+        "A nominal, flat fee just for being in the index.",
+        "Real money as your content delivers actual value.",
+        "More for unique reporting nobody else has."
+      ]
+    },
+    {
+      "type": "thesis",
+      "text": "Pete Pachal's bottom line: a meter that counts only [[answers]] will always undervalue the [[library]], and the library is what makes those answers any good."
+    },
+    {
+      "type": "closer",
+      "lines": [
+        "Full column at mediacopilot.ai.",
+        "Link in bio."
+      ],
+      "question": "Would you create new content for a market that pays a tenth of a cent an article?",
+      "footer": "mediacopilot.ai"
+    }
+  ],
+  "captions": {
+    "instagram": "At the Financial Times, one trial account tried to access about a million articles in eight hours, from 700,000 IP addresses. The brokers that resell that kind of haul charge about a dollar per thousand pages.\nPete Pachal's column this week on why pay-per-use meters shortchange the library behind every AI answer, and the Spotify-style fix he proposes.\nSomeone has to pay for the pantry, not just what lands on the plate. Who should it be?\nLink in bio.\n#AI #Publishing #Journalism #Media #MediaIndustry",
+    "linkedin": "At the Financial Times, one trial account tried to access about a million articles in eight hours from 700,000 IP addresses, per managing director of consumer revenue Fiona Spooner. At the same Digiday event in London, another publishing executive said licensing talks with AI companies have all but stopped.\n\nTen slides on Pete Pachal's argument that pay-per-use meters shortchange the library behind every AI answer: Cloudflare's switch to paying per answer, the AirOps 15% figure, Parallel's Index program and the flat index fee he proposes.\n\nThe column: https://mediacopilot.ai/ai-answers-run-on-a-library-nobody-is-paying-for/"
+  }
+}
