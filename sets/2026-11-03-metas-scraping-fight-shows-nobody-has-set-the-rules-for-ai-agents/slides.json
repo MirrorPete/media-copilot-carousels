@@ -1,0 +1,72 @@
+{
+  "slug": "metas-scraping-fight-shows-nobody-has-set-the-rules-for-ai-agents",
+  "title": "Meta's scraping fight shows nobody has set the rules for AI agents",
+  "url": "https://mediacopilot.ai/metas-scraping-fight-shows-nobody-has-set-the-rules-for-ai-agents/",
+  "notes": "Emphasis markup: [[word]] renders in the accent yellow. Use on two slides per set at most.",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        "Meta rewrote its terms to crawl your site.",
+        "Then it backed off.",
+        "The bigger problem is who gets to write the rules:"
+      ]
+    },
+    {
+      "type": "story",
+      "headline": "A license to crawl.",
+      "deck": "Meta's new terms let it crawl any website tied to a business account and feed the content to its products, training included. Three legal experts warned publishers it reads as a blanket license."
+    },
+    {
+      "type": "story",
+      "headline": "The backpedal, sort of.",
+      "deck": "Within a day Meta dropped the word train. Lawyers said the new wording still permits mass scraping. The start date slid from October 30 to November 20, then disappeared."
+    },
+    {
+      "type": "hero",
+      "headline": "Nobody has set the [[rules]] for AI agents. So whoever has the [[biggest gun]] writes them.",
+      "deck": "In Pete Pachal's words, we're all living in Tombstone."
+    },
+    {
+      "type": "quote",
+      "quote": "“just too risky for clients and for JPMorgan.”",
+      "deck": "JPMorgan Chase CEO Jamie Dimon, on why the bank now blocks outside AI agents from logging in. Schwab does the same. Citi doesn't allow third-party agents either."
+    },
+    {
+      "type": "story",
+      "headline": "Same script, different sheriff.",
+      "deck": "Cloudflare accused Perplexity of using stealth crawlers to dodge sites' bot blocks. Perplexity said its agents were proxies for real users. Cloudflare, gatekeeper for much of the web, delisted it as a verified bot."
+    },
+    {
+      "type": "list",
+      "lead": "Who writes the rules for agents right now:",
+      "items": [
+        "Meta, with its terms of service.",
+        "JPMorgan, with its login page.",
+        "Perplexity, with its index."
+      ]
+    },
+    {
+      "type": "number",
+      "big": "80+",
+      "text": "Publishers now in SPUR, a coalition setting standards for how AI systems track and value content. Congress, a Norwegian court and the U.K. regulator are moving too."
+    },
+    {
+      "type": "thesis",
+      "text": "Pete Pachal's bottom line: until someone builds a [[framework]] everyone has to follow, read every platform agreement as if it might double as a [[crawling license]]."
+    },
+    {
+      "type": "closer",
+      "lines": [
+        "Full column at mediacopilot.ai.",
+        "Link in bio."
+      ],
+      "question": "If an AI agent showed up at your site tomorrow, who decides what it can take?",
+      "footer": "mediacopilot.ai"
+    }
+  ],
+  "captions": {
+    "instagram": "In the Axios-Harris Poll 100, Meta scored 59.6, down in the basement with ByteDance and X. So when its new terms appeared to let it crawl any website tied to a business account, nobody gave it the benefit of the doubt.\nPete Pachal's column this week on why the fight is bigger than Meta: nobody has set the rules for AI agents, so whoever holds the most power writes them.\nHave you read what your platform agreements let a crawler do?\nLink in bio.\n#AI #Publishing #Journalism #Media #MediaIndustry",
+    "linkedin": "Meta's rewritten commercial terms come with no opt-out short of walking away from its business tools, and they landed just as Meta One began charging some accounts to post links to the same content Meta's bots could crawl for free.\n\nTen slides on Pete Pachal's argument that the fight is bigger than Meta: JPMorgan Chase, Schwab and Citi blocking outside agents, Cloudflare delisting Perplexity as a verified bot, and the 80-plus publishers in SPUR trying to write shared rules while a Norwegian court and the U.K. regulator weigh in.\n\nThe column: https://mediacopilot.ai/metas-scraping-fight-shows-nobody-has-set-the-rules-for-ai-agents/"
+  }
+}
