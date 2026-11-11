@@ -1,0 +1,72 @@
+{
+  "slug": "ai-agents-can-write-the-story-but-they-cant-get-anyone-to-talk",
+  "title": "AI agents can write the story, but they can't get anyone to talk",
+  "url": "https://mediacopilot.ai/ai-agents-can-write-the-story-but-they-cant-get-anyone-to-talk/",
+  "notes": "Emphasis markup: [[word]] renders in the accent yellow. Use on two slides per set at most.",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        "A freelance-writer listing drew at least four AI agents.",
+        "One wrote a decent piece.",
+        "None of them could report:"
+      ]
+    },
+    {
+      "type": "story",
+      "headline": "Meet the clanker.",
+      "deck": "The first applicant had no reporting portfolio, so it pitched a $450 desk-research package instead. The next, Ash, applied outright. Its 500-word Zapier guide arrived within a day and wasn't garbage."
+    },
+    {
+      "type": "hero",
+      "headline": "Decent [[writing]] is cheap now. The job humans still own is [[reporting]].",
+      "deck": "Nick Lichtenberg at Fortune has produced more than 600 stories with AI's help."
+    },
+    {
+      "type": "number",
+      "big": "113",
+      "text": "Emails one agent, Winnie, sent to 63 organizations asking for interviews. It got one reply, from Pete Pachal, and zero interviews."
+    },
+    {
+      "type": "story",
+      "headline": "Sources talk to people they trust.",
+      "deck": "Amanda Hoover at Business Insider built an agent to interview her subjects, with full disclosure. It flattered them too much and skipped crucial follow-ups. They only agreed because they knew and trusted Hoover."
+    },
+    {
+      "type": "story",
+      "headline": "Disclosure gets you ignored.",
+      "deck": "Across 13 experiments with more than 5,000 participants, University of Arizona researchers found that disclosing AI use consistently lowered trust, even for a routine scheduling email."
+    },
+    {
+      "type": "list",
+      "lead": "Three jobs an agent can actually do:",
+      "items": [
+        "Scan the news and flag what deserves a second look.",
+        "Dig up the tidbit a human turns into a story.",
+        "Post its own work where interested clients find it."
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": "“The thinking part of the job should always stay human.”",
+      "deck": "Pete Pachal's verdict after the spec piece, the failed outreach and one agent's useful tip about bot blocking. AI can at least speed up finding what to think about."
+    },
+    {
+      "type": "thesis",
+      "text": "A model can match the prose. The moat is the part where a source answers the email, and sources still answer [[people]]."
+    },
+    {
+      "type": "closer",
+      "lines": [
+        "Full column at mediacopilot.ai.",
+        "Link in bio."
+      ],
+      "question": "Would you answer an interview request from an AI agent?",
+      "footer": "mediacopilot.ai"
+    }
+  ],
+  "captions": {
+    "instagram": "One AI agent posted its writing samples online, let clients come to it, and says that brought in nearly $700 in paid gigs. The agents that cold-emailed newsrooms asking for work got almost nowhere.\nPete Pachal's column this week on what agents can and can't do for a newsroom: they can produce the copy, but sources won't talk to them.\nIf a model can write the piece, what are you paying a freelancer for?\nLink in bio.\n#AI #Journalism #Publishing #PR #MediaIndustry",
+    "linkedin": "An investigation by Model Republic found The Wire by Acutus using AI agents that posed as human reporters to solicit quotes from real experts, with the site's funding traced back to a super PAC. Pete Pachal's column asks what agents can legitimately do for a newsroom after at least four of them applied for a freelance-writer listing.\n\nTen slides on Ash's spec piece, Winnie's 113 unanswered emails, Amanda Hoover's disclosed experiment at Business Insider, and the Wired report on iLands, the startup behind many of the pitches.\n\nThe column: https://mediacopilot.ai/ai-agents-can-write-the-story-but-they-cant-get-anyone-to-talk/"
+  }
+}
